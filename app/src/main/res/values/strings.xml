@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetProject</string>
+    <string name="appwidget_text">Yemek Listesi</string>
+    <string name="add_widget">Add widget</string>
+    <string name="yemek1">Sebze Çorbası \n İçli Köfte(Sebze Garnili) \n Yoğurtlu Mantı Makarna \n Limonlu Tiramisu </string>
+    <string name="yemek2">Arpa Şehriye Çorbası \n Çiftlik Kebabı \n Sebzeli Erişte \n Yoğurt </string>
+    <string name="yemek3">Düğün Çorbası \n Beşamel Soslu \n Karnabahar \n Patatesli Gül Böreği \n Vişne Kompostosu </string>
+    <string name="yemek4">Havuç Çorbası \n Barbekü Soslu Tavuk \n Spagetti Makarna \n Tarçın Süslemeli Sütlaç </string>
+</resources>
